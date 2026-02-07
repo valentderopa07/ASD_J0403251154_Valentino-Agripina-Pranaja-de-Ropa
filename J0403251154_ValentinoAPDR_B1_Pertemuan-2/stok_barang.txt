@@ -1,0 +1,11 @@
+VLN001,AirMineral,12
+VLN002,Indomie,25
+VLN003,Kopi,10
+VLN004,Bengbeng,8
+VLN005,Permen,9
+VLN006,Wafer,15
+VLN007,RotiTawar,5
+VLN008,EsKrim,10
+VLN009,Chitato,14
+VLN010,Teh,6
+VLN011,Susu,15
